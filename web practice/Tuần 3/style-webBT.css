@@ -1,0 +1,21 @@
+#Hello {
+    align-items: center;
+    font-style: italic;
+    font-family: Georgia, serif ;
+    color: black;
+    background-color: seagreen;
+    display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+    width: 800px;
+    height: 600px;
+    align-items:stretch;
+    align-content:space-around;
+}
+div {
+background-color: pink;
+border: 2px black solid;
+margin: 10px;
+width: 100px;
+height: 100px;
+}

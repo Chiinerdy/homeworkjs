@@ -1,0 +1,11 @@
+image hinh1.jpg
+p {color:brown}
+h2 {color: rgb(44, 168, 40);}
+.c1 {color: rgb(158, 85, 85);}
+p {background-color: salmon;
+padding-right: 100px;
+padding-left: 100px;
+border-left: 500px;
+border-top-width: 100px;
+width: 500px;
+} 

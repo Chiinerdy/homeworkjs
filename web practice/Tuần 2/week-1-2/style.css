@@ -1,0 +1,20 @@
+/* Class: ., Id: # */
+/* 
+    1. Padding
+    2. Border
+    3. Margin
+*/
+
+.hot-topic {
+    width: 500px;
+    border: 1px solid #999;
+    padding-left: 20px;
+    margin-bottom: 100px;
+}
+
+.regular-topic {
+    width: 30%;
+    background-color: #ddd;
+    padding: 20px 10px;
+    margin-bottom: 20px;
+}

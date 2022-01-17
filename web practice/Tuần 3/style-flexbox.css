@@ -1,0 +1,19 @@
+
+#container 
+{
+    height : 80px;
+    width: 150 px;
+    font-size: xx-large;
+    color: white;
+    background-color: orangered;
+    display: flex ;
+flex-direction:row;
+justify-content:center;
+}
+.content {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    background-color: orchid;
+}
+#LS {background-color: paleturquoise;}
